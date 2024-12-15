@@ -1,0 +1,7 @@
+ffmpeg-python
+discord.py
+discord-ext-commands
+yt-dlp
+spotipy
+ffmpeg
+asyncio
